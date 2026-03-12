@@ -1,0 +1,7 @@
+{
+  "name": "Speedtest Card",
+  "description": "A premium cyber-themed Lovelace card for the Speedtest.net integration. Displays download, upload and ping with arc gauges, sparklines, and a full history modal with interactive hover charts.",
+  "render_readme": true,
+  "content_in_root": true,
+  "filename": "speedtest-card.js"
+}
